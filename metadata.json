@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: LaraBakong POS",
+  "description": "Laravel 12 POS system and admin panel with AdminLTE styling and KHQR Bakong payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
